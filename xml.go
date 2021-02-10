@@ -1,4 +1,4 @@
-/* Copyright 2020 Kilobit Labs Inc. */
+/* Copyright 2021 Kilobit Labs Inc. */
 
 // Work simply with XML backed data structures in Golang.
 //

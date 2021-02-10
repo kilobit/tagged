@@ -1,4 +1,4 @@
-/* Copyright 2020 Kilobit Labs Inc. */
+/* Copyright 2021 Kilobit Labs Inc. */
 
 // Example of embedding an XML Object
 //
